@@ -1,0 +1,18 @@
+C:\Users\mis002\AppData\Local\Temporary Projects\Guess\bin\Debug\Guess.exe
+C:\Users\mis002\AppData\Local\Temporary Projects\Guess\bin\Debug\Guess.pdb
+C:\Users\mis002\AppData\Local\Temporary Projects\Guess\bin\Debug\Guess.xml
+C:\Users\mis002\AppData\Local\Temporary Projects\Guess\obj\x86\Debug\Guess.Form1.resources
+C:\Users\mis002\AppData\Local\Temporary Projects\Guess\obj\x86\Debug\Guess.Resources.resources
+C:\Users\mis002\AppData\Local\Temporary Projects\Guess\obj\x86\Debug\Guess.vbproj.GenerateResource.Cache
+C:\Users\mis002\AppData\Local\Temporary Projects\Guess\obj\x86\Debug\Guess.exe
+C:\Users\mis002\AppData\Local\Temporary Projects\Guess\obj\x86\Debug\Guess.xml
+C:\Users\mis002\AppData\Local\Temporary Projects\Guess\obj\x86\Debug\Guess.pdb
+C:\Users\mis002\Desktop\ElijahMao\Guess\obj\x86\Debug\Guess.exe
+C:\Users\mis002\Desktop\ElijahMao\Guess\obj\x86\Debug\Guess.xml
+C:\Users\mis002\Desktop\ElijahMao\Guess\obj\x86\Debug\Guess.pdb
+C:\Users\mis002\Desktop\ElijahMao\Guess\bin\Debug\Guess.exe
+C:\Users\mis002\Desktop\ElijahMao\Guess\bin\Debug\Guess.pdb
+C:\Users\mis002\Desktop\ElijahMao\Guess\bin\Debug\Guess.xml
+C:\Users\mis002\Desktop\ElijahMao\Guess\obj\x86\Debug\Guess.Form1.resources
+C:\Users\mis002\Desktop\ElijahMao\Guess\obj\x86\Debug\Guess.Resources.resources
+C:\Users\mis002\Desktop\ElijahMao\Guess\obj\x86\Debug\Guess.vbproj.GenerateResource.Cache
